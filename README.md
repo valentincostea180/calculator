@@ -9,16 +9,16 @@ The application allows users to perform calculations through button inputs, supp
 
 
 ## ⚙️ Features
-	•	Basic operations: addition, subtraction, multiplication, division
-	•	Interactive button UI with hover effects
+•	Basic operations: addition, subtraction, multiplication, division
+•	Interactive button UI with hover effects
 
 
 ## ▶️ How to Run
-	1.	Open the project in a browser
-	2.	Click buttons to input numbers and operations
+1.	Open the project in a browser
+2.	Click buttons to input numbers and operations
 
 ## 🧠 Concepts Used
-	•	DOM manipulation
-	•	Event listeners
-	•	Basic state management
-	•	Number parsing and calculations
+•	DOM manipulation
+•	Event listeners
+•	Basic state management
+•	Number parsing and calculations
